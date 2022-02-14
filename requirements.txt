@@ -1,6 +1,6 @@
 streamlit
 nltk
 sklearn
-
-
-
+wordnet
+pros_cons
+reuters
